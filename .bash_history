@@ -25,3 +25,13 @@ pwd
 cd
 vi .bashrc
 source .bashrc
+sudo yum install git -y
+ls
+git init
+la -a
+ls -a
+git status
+git add .
+git status
+git commit-m "first project"
+git commit -m "first project"
